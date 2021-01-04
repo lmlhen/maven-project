@@ -22,7 +22,7 @@ node{
     }
     stage ('Delivery')
     {
-        echo "Deliver"
+        echo "Deliver to production"
     }
         
 //input 'Necesito confirmación'
